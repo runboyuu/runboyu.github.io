@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "YU Runbo"
 description              : &description "personal description"
 url                      : https://runboyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : https://runboyu.github.io # the subpath of your site, e.g. "/blog"
 repository               : "runboyuu/runboyu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,13 +21,13 @@ repository               : "runboyuu/runboyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "images/profile2.png"
   name             : "Runbo YU"
   pronouns         : # example: "she/her"  
   bio              : "a Sophomore Undergraduate @ CityU HK"
   location         : "Kowloon Tong, Hong Kong"
   employer         : "City University of Hong Kong"
-  uri              : # URL
+  uri              : https://github.com/runboyuu # URL
   email            : "rbyreece@gmail.com" 
 
   # Academic websites
