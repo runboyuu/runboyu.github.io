@@ -1,5 +1,7 @@
 # 📝 Publications
 
+<!--
+
 †: Equal contribution
 ✉: Corresponding author
 
@@ -42,6 +44,8 @@
 <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" target="_blank"><img src="https://img.shields.io/badge/CIKM-2019-blue?style=flat-square"></a> <u>Siteng Huang</u>, Donglin Wang, Xuehan Wu, Ao Tang, &quot;**DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting**&quot;. In *Proceedings of the 28th ACM International Conference on Information and Knowledge Management*. [[project page](https://kyonhuang.top/publication/dual-self-attention-network)] [[pdf](https://kyonhuang.top/files/DSANet/Huang-DSANet.pdf)] [[code](https://github.com/bighuang624/DSANet)] [[poster](https://kyonhuang.top/files/DSANet/cikm19-DSANet-poster.pdf)] [[slide](https://kyonhuang.top/files/DSANet/cikm19-DSANet-presentation.pdf)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:u-x6o8ySG0sC' href="" target="_blank"></a> <a href="https://github.com/bighuang624/DSANet" target="_blank"><img src="https://img.shields.io/github/stars/bighuang624/DSANet?style=social"></a>
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
+
+<!--
 
 ### Preprints & Under Submission
 
