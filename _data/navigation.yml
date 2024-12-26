@@ -30,8 +30,8 @@ main:
   # - title: "Services"
   #   url: "/#-services"
 
-  - title: "Awards"
-    url: "/#-awards"
+   - title: "Honors and Awards"
+    url: "/#-honors-and-awards
 
   - title: "Misc"
     url: "/#-misc"
