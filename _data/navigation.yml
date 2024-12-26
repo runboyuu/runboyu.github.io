@@ -9,8 +9,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
@@ -24,11 +24,11 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
-
-  - title: "Services"
-    url: "/#-services"
+  - title: "Selected Courses"
+    url: "/#-selected-courses"
+    
+  # - title: "Services"
+  #   url: "/#-services"
 
   - title: "Misc"
     url: "/#-misc"
@@ -36,5 +36,5 @@ main:
   # - title: "Projects"
   #   url: /publications/
 
-  - title: "CV"
-    url: /files/SitengHuang_CV_en.pdf
+  #- title: "CV"
+  #  url: /files/SitengHuang_CV_en.pdf
