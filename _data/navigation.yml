@@ -26,9 +26,12 @@ main:
 
   - title: "Selected Courses"
     url: "/#-selected-courses"
-    
+
   # - title: "Services"
   #   url: "/#-services"
+
+  - title: "Awards"
+    url: "/#-awards"
 
   - title: "Misc"
     url: "/#-misc"
