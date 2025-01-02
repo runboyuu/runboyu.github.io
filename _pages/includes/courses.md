@@ -1,2 +1,3 @@
 # 🎓 Selected Courses
-UC Berkeley: Analysis(A+), Artificial Intelligence(A)
+CityU: Linear Algebra(A+)
+UC Berkeley: Real Analysis(A+), Artificial Intelligence(A)
